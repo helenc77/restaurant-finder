@@ -1,0 +1,19 @@
+body{font-family: Arial, Helvetica, Sans-serif; background-color:#F4E8CC;}
+table{border: 1px solid #F9A899; border-collapse: collapse; margin:10px 0px;}
+fieldset{border: 1px solid #F9A899;}
+legend{color:#F9A899; margin:10px 0px;}
+table td, table th{border: 1px solid #F9A899; padding:3px;}
+table th{color:#F9A899;}
+p,h1,h2,h3,ul,li,td,th,form{color:#9E200A; padding:0px; margin:0px; text-align:left;}
+h3{margin-top:5px;}
+ul{padding:5px; margin:0px;}
+li {padding:0px; margin:20px 0px;}
+li{list-style-type: none;}
+
+a:link {color: #5B631B; font-weight:bold; text-decoration:none;}
+a:visited {color: #A0AD30;}
+a:hover {color: #9E200A; text-decoration:underline;}
+a:active {color: #9E200A;}
+h1 a:link, h1 a:visited, h1 a:hover, h1 a:active{color:#9E200A; text-decoration:none;}
+
+#background{background-color:#F4E8CC;}
